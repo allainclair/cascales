@@ -1,0 +1,9 @@
+.logo-img {
+    width: 100%;
+    max-width: 200px;
+}
+
+.grid-centered{
+    place-items: center;
+    display: grid;
+}
